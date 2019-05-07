@@ -36,7 +36,7 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 32,
-    "versionPublish": "4.8.6",
+    "versionPublish": "4.9.7",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -161,8 +161,8 @@
         {
           "_params": {
             "autoplay": true,
-            "animType": "photo",
-            "theme": "twist",
+            "animType": "blinds",
+            "theme": "cloud",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/2f-1024x576.jpg",
@@ -172,7 +172,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/2f-85x48.png",
                 "title": "title 1",
                 "text": "text 1",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/1-1024x576.jpg",
@@ -182,7 +182,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/1-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/-20190408215819-1024x576.jpg",
